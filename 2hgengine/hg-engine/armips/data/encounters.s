@@ -1012,8 +1012,8 @@ encounter SPECIES_QUAGSIRE, 10, 20
 encounter SPECIES_QUAGSIRE, 10, 20
 
 // rock smash encounters
-encounter SPECIES_GEODUDE, 8, 14
-encounter SPECIES_GEODUDE, 3, 6
+encounter SPECIES_OMANYTE, 8, 14
+encounter SPECIES_KABUTO, 8, 14
 
 // old rod encounters
 encounter SPECIES_MAGIKARP, 10, 10
@@ -3972,7 +3972,7 @@ walklevels 16, 16, 16, 16, 16, 16, 16, 16, 13, 13, 13, 13
 
 // morning encounter slots
 pokemon SPECIES_RATTATA
-pokemon SPECIES_RATICATE
+pokemon SPECIES_DODUO
 pokemon SPECIES_RATTATA
 pokemon SPECIES_RATICATE
 pokemon SPECIES_MAGNEMITE
@@ -4075,8 +4075,8 @@ superrodrate 0
 walklevels 16, 17, 16, 17, 16, 16, 16, 16, 15, 15, 15, 15
 
 // morning encounter slots
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATICATE
+pokemon SPECIES_DODUO
+pokemon SPECIES_PONYTA
 pokemon SPECIES_RATTATA
 pokemon SPECIES_RATICATE
 pokemon SPECIES_MAGNEMITE
@@ -5380,8 +5380,8 @@ encounter SPECIES_TENTACRUEL, 15, 25
 encounter SPECIES_TENTACRUEL, 15, 25
 
 // rock smash encounters
-encounter SPECIES_KRABBY, 15, 24
-encounter SPECIES_SHUCKLE, 23, 28
+encounter SPECIES_SHUCKLE, 15, 24
+encounter SPECIES_AERODACTYL, 23, 28
 
 // old rod encounters
 encounter SPECIES_MAGIKARP, 10, 10
@@ -5947,7 +5947,7 @@ superrodrate 75
 walklevels 15, 15, 15, 15, 17, 17, 15, 15, 16, 17, 16, 17
 
 // morning encounter slots
-pokemon SPECIES_FLAAFFY
+pokemon SPECIES_GRIMER
 pokemon SPECIES_GIRAFARIG
 pokemon SPECIES_FLAAFFY
 pokemon SPECIES_GIRAFARIG
@@ -5961,7 +5961,7 @@ pokemon SPECIES_VENONAT
 pokemon SPECIES_PIDGEOTTO
 
 // day encounter slots
-pokemon SPECIES_FLAAFFY
+pokemon SPECIES_GRIMER
 pokemon SPECIES_GIRAFARIG
 pokemon SPECIES_FLAAFFY
 pokemon SPECIES_GIRAFARIG
@@ -5975,7 +5975,7 @@ pokemon SPECIES_FLAAFFY
 pokemon SPECIES_FLAAFFY
 
 // night encounter slots
-pokemon SPECIES_FLAAFFY
+pokemon SPECIES_GRIMER
 pokemon SPECIES_GIRAFARIG
 pokemon SPECIES_FLAAFFY
 pokemon SPECIES_GIRAFARIG
