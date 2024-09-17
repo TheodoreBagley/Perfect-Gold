@@ -627,7 +627,7 @@ trainerdata 20, "Falkner"
         // mon 0
         ivs 50
         abilityslot 0
-        level 9
+        level 11
         pokemon SPECIES_PIDGEY
         item ITEM_NONE
         move MOVE_TACKLE
